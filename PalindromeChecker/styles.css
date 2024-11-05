@@ -1,0 +1,11 @@
+h2{
+    font-style: italic;
+    font-weight: 600;
+    color: blueviolet;
+}
+#check{
+    background-color: crimson;
+    width: 70px;
+    height:50px;
+    border-radius:3px;
+}
